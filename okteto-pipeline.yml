@@ -1,0 +1,3 @@
+type: stack
+deploy:
+- okteto stack deploy --build -f docker-stack.yml
